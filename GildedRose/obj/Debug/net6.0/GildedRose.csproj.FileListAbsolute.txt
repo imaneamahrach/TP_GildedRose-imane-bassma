@@ -1,0 +1,12 @@
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\bin\Debug\net6.0\GildedRose.deps.json
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\bin\Debug\net6.0\GildedRose.dll
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\bin\Debug\net6.0\GildedRose.pdb
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\GildedRose.csproj.AssemblyReference.cache
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\GildedRose.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\GildedRose.AssemblyInfoInputs.cache
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\GildedRose.AssemblyInfo.cs
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\GildedRose.csproj.CoreCompileInputs.cache
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\GildedRose.dll
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\refint\GildedRose.dll
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\GildedRose.pdb
+c:\Users\imane amahrach\Desktop\TP_GildedRose-imane-bassma\GildedRose\obj\Debug\net6.0\ref\GildedRose.dll
